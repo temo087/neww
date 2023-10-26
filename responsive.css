@@ -1,0 +1,218 @@
+@media(width >= 1440px){
+
+header{
+    padding: 64px 165px 130px 165px;
+}
+    .nav1{
+        display: contents;
+    }
+    .navava{
+        display: contents;
+        height: 35px;
+        flex-shrink: 0;
+    }
+    .a1{
+        font-size: 32px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .a1:hover{
+        text-decoration: underline;
+        color: rgb(183, 179, 179);
+    }
+    .square{
+        width: 650px;
+        height: 278px;
+        flex-shrink: 0;
+    }
+    .immersive{
+        margin-top: 20px;
+        color: #FFF;
+        font-size: 72px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 70px; /* 97.222% */
+        text-transform: uppercase;
+        width: 570px;
+        height: 198px;
+
+    }
+
+.mian{
+    width: 1440px;
+height: 2896px;
+}
+
+    .first-section{
+    height: 500px;
+    display: flex;
+    margin: 0;
+    }
+    .vrimg{
+        margin-top: 160px;
+        z-index: -1;
+        width: 777px;
+        height: 500px;
+        margin-right: 50%;
+        transform: translateX(-50%);
+
+flex-shrink: 0;
+background: url(assets2/VRman\ PC.svg) lightgray 0px 0px / 100% 100% no-repeat;
+    }
+.Leader{
+    display: none;
+}
+.lead2, .fnd2{
+    display: contents;
+    text-align: start;
+}
+.lead2{
+    width: 445px;
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 48px; /* 100% */
+    text-transform: uppercase;
+    display: block;
+}
+.fnd2{color: #000;
+    font-family: 'Alata';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px; /* 166.667% */
+    margin-top:50px;
+    opacity: 0.4994;
+    width: 445px;
+}
+.hh{
+    opacity: 0.4994;
+}
+.squarein{
+    width: 540px;
+    height: 318px;
+    flex-shrink: 0;
+    background-color: #fff;
+    margin: 184px 0 0 605px;
+    padding: 45px 0 0 66px;
+}
+.creations{
+    margin: 0;
+}
+.first-line{
+    width: 1111px;
+    margin: 0 0 0 -391px;
+    margin-top: 200px;
+    justify-content: space-between;
+}
+.see1{
+    display: contents;
+}
+
+
+.sec-section-1st, .sec-section-2nd{
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+    column-gap:30px;
+}
+.box{
+    width: 256px;
+height: 450px;
+flex-shrink: 0;
+}
+
+.gg{
+    margin-top: 328px;
+}
+.lefttext{
+    margin-left: 40px;
+}
+.box1{
+    margin-top: 25px;
+}
+.see3{
+    display: contents;
+    border: 2px solid #271212;;
+}
+button{
+ border: 2px solid #000;;
+}
+.box1{
+    background-image: url(assets2/Earth.svg)
+}
+.box2{
+    background-image: url(assets2/arcade\ pc.svg);
+}
+.box3{
+    background-image: url(assets2/soccer\ pc.svg);
+}
+.box4{
+    background-image: url(assets2/grid\ pc.svg);
+}
+.box5{
+    background-image: url(assets2/above\ pc.svg);
+}
+.box6{
+    background-image: url(assets2/boreals\ pc.svg);
+}
+.box7{
+    background-image: url(assets2/curiosity\ pc.svg);
+}
+.box8{
+    background-image: url(assets2/fisheye\ pc.svg);
+}
+.none{
+    display: contents;
+    width: 192px;
+height: 32px;
+flex-shrink: 0;
+}
+.see2{
+    display: none;
+}
+footer{
+    height: 160px;
+    padding: 44px 165px;
+}
+.section-3rd{
+    height: 0;
+    width: 100%;
+    display: flex;
+}
+.icons{
+    display: none;
+}
+.icons1{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-left: 61px;
+}
+.nav2{
+    display: none;
+}
+.nav3{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    gap: 16px;
+}.startt{
+    width: 100%;
+    display: flex;
+}
+.endd{
+    display: flex;
+}
+.last{
+    margin-top: 60px;
+    margin-left: -300px;
+}
+.haha{
+    display: contents;
+    position: absolute;
+    z-index: 1;
+    color: white;
+}
+
+}
